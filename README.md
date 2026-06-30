@@ -6,3 +6,7 @@ Game window is resizyble, to change the scale adjust the PIXEL_SIZE defined in m
 
 As graphics backend a modified version of [OLC PGE](https://github.com/onelonecoder/olcpixelgameengine) was used
 
+
+> [!IMPORTANT]
+> Currently only X11 version, because of my patch for enabling hidden cursor
+
